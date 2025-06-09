@@ -1,4 +1,5 @@
 # TFTBlinky - CircuitPython Display Backlight Controller
+(think: Microcontroller without builtin LEDs etc, now you can blink the display instead for alerts, errors, anything !)
 
 A CircuitPython library for controlling TFT display backlight blinking while preserving display functionality. This library automatically detects the appropriate backlight control method for your board and provides a simple interface for blinking effects.
 
